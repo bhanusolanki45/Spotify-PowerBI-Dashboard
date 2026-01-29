@@ -34,16 +34,15 @@ The dashboard helps answer questions like:
 ![Home](https://github.com/bhanusolanki45/Spotify-PowerBI-Dashboard/blob/main/home.pdf)
 
 ### Overview Page
-![Overview](screenshots/overview.png)
+![Overview](https://github.com/bhanusolanki45/Spotify-PowerBI-Dashboard/blob/main/overview.pdf)
 
 ### Artists Page
-![Artists](screenshots/artists.png)
+![Artists](https://github.com/bhanusolanki45/Spotify-PowerBI-Dashboard/blob/main/artists.pdf)
 
 ### Songs Page (1)
-![Songs 1](screenshots/songs_1.png)
+![Songs 1](https://github.com/bhanusolanki45/Spotify-PowerBI-Dashboard/blob/main/songs.pdf)
 
-### Songs Page (2)
-![Songs 2](screenshots/songs_2.png)
+
 
 ## Data Source
 - Dataset: Spotify tracks data (likely from public sources such as Kaggle - add the exact link if you used one)
