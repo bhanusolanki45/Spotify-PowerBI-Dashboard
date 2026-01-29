@@ -45,7 +45,7 @@ The dashboard helps answer questions like:
 
 
 ## Data Source
-- Dataset: Spotify tracks data (likely from public sources such as Kaggle - add the exact link if you used one)
+- Dataset: Spotify tracks data (likely from public sources such as Kaggle)
 - Total records analyzed: ~28,000 songs, 342 artists (as shown in the dashboard)
 
 ## Technologies Used
