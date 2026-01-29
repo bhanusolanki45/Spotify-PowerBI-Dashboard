@@ -3,7 +3,7 @@ Interactive Spotify Music Data Analysis Dashboard built with Power BI A comprehe
 
 # Spotify Music Data Analysis Dashboard (Power BI)
 
-![Spotify Banner](screenshots/home.png)
+![Spotify Banner](https://github.com/bhanusolanki45/Spotify-PowerBI-Dashboard/blob/main/home.pdf)
 
 ## Project Overview
 This is an interactive dashboard built in **Microsoft Power BI** to analyze Spotify music data. It provides deep insights into top artists, song popularity, album trends, explicit content distribution, and temporal patterns (monthly/yearly).
@@ -31,7 +31,7 @@ The dashboard helps answer questions like:
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](https://github.com/bhanusolanki45/Spotify-PowerBI-Dashboard/blob/main/home.pdf)
 
 ### Overview Page
 ![Overview](screenshots/overview.png)
